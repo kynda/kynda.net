@@ -53,9 +53,11 @@ strong {
 dfn {
   font-style: italic;
 }
-h1 {
+h1, h2 {
   font-size: 2em;
   margin: 0.67em 0;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  color: #fff !important;
 }
 mark {
   background: #ff0;
@@ -6164,7 +6166,7 @@ button.close {
   }
 }
 body {
-  background: url(../media/background.jpg) no-repeat center center fixed;
+  background: url(../media/vicky-tiger-canyon.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
