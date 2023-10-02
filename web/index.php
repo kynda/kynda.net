@@ -205,15 +205,6 @@
                     <li>
                         <a data-toggle="tooltip"
                            data-placement="bottom"
-                           href="http://phobos.kynda.net"
-                           target="_blank"
-                           title="Phobos">
-                            <i class="fa-solid fa-laptop"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a data-toggle="tooltip"
-                           data-placement="bottom"
                            href="http://iounn.kynda.net"
                            target="_blank"
                            title="Iounn">
