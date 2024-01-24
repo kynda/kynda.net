@@ -112,16 +112,16 @@
                     <li>
                         <a data-toggle="tooltip"
                            data-placement="bottom"
-                           href="https://time.kynda.net"
+                           href="https://media.kynda.net"
                            target="_blank"
-                           title="TOK">
-                            <i class="fa-solid fa-clock"></i>
+                           title="Media Center">
+                            <i class="fa-solid fa-film"></i>
                         </a>
                     </li>
                     <li>
                         <a data-toggle="tooltip"
                            data-placement="bottom"
-                           href="https://tt-rss.kynda.net"
+                           href="https://fresh.kynda.net"
                            target="_blank"
                            title="RSS Reader">
                             <i class="fa-solid fa-square-rss"></i>
@@ -134,6 +134,15 @@
                            target="_blank"
                            title="E-mail">
                             <i class="fa-solid fa-inbox"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tooltip"
+                           data-placement="bottom"
+                           href="https://time.kynda.net"
+                           target="_blank"
+                           title="TOK">
+                            <i class="fa-solid fa-clock"></i>
                         </a>
                     </li>
                 </ul>
@@ -196,6 +205,15 @@
                     <li>
                         <a data-toggle="tooltip"
                            data-placement="bottom"
+                           href="http://renaissance.kynda.net"
+                           target="_blank"
+                           title="Renaissance">
+                            <i class="fa-solid fa-laptop"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tooltip"
+                           data-placement="bottom"
                            href="http://diemos.kynda.net"
                            target="_blank"
                            title="Diemos">
@@ -231,6 +249,15 @@
                            target="_blank"
                            title="Switch">
                             <i class="fa-solid fa-gamepad"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a data-toggle="tooltip"
+                           data-placement="bottom"
+                           href="http://roku.kynda.net"
+                           target="_blank"
+                           title="Roku">
+                            <i class="fa-solid fa-television"></i>
                         </a>
                     </li>
                     <li>
